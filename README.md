@@ -1,6 +1,6 @@
 ## To-Do-List desenvolvida no HiringCoders 
 
-# Desenvolvido Javascript
+# Desenvolvido com Javascript CSS e HTML
 
 #Professora Simara Conceição 
 #https://github.com/simaraconceicao
